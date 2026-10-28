@@ -1,0 +1,9 @@
+{
+  "name": "why-this-piece",
+  "version": "1.0.5",
+  "description": "Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

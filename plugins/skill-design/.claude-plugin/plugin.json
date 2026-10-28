@@ -1,0 +1,9 @@
+{
+  "name": "skill-design",
+  "version": "1.0.7",
+  "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

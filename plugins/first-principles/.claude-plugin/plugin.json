@@ -1,0 +1,9 @@
+{
+  "name": "first-principles",
+  "version": "1.0.2",
+  "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dig-apc",
+  "version": "1.0.2",
+  "description": "After a failure, it has your agent write what it did and what it believed, as axioms, principles and cruxes, then test each belief to find the one that is wrong.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "decide",
+  "version": "1.0.1",
+  "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

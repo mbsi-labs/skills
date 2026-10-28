@@ -1,0 +1,128 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "MBSI"
+  },
+  "metadata": {
+    "description": "Skills for AI agents, made and tested by MBSI. Each one is a plain folder you can read before you install it."
+  },
+  "plugins": [
+    {
+      "name": "be-ambitious",
+      "source": "./plugins/be-ambitious",
+      "description": "Before your agent starts, it asks what the job is really for and what an expert would do, then asks for more than you first typed.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "but-therefore",
+      "source": "./plugins/but-therefore",
+      "description": "Rebuilds a devlog or post as a chain of \"but\" and \"therefore\" instead of \"and then\".",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "cognitive-prophylactics",
+      "source": "./plugins/cognitive-prophylactics",
+      "description": "Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "decide",
+      "source": "./plugins/decide",
+      "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "dig-apc",
+      "source": "./plugins/dig-apc",
+      "description": "After a failure, it has your agent write what it did and what it believed, as axioms, principles and cruxes, then test each belief to find the one that is wrong.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "encode-lessons",
+      "source": "./plugins/encode-lessons",
+      "description": "When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "first-principles",
+      "source": "./plugins/first-principles",
+      "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "lever",
+      "source": "./plugins/lever",
+      "description": "When the work isn't trivial, it has your agent write the script that does it, rerun it on the first unit and diff the result against the hand version.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "prove-it",
+      "source": "./plugins/prove-it",
+      "description": "Before your agent says it is done, it runs the real program from outside and reads what it prints, instead of trusting a compile, a cached screenshot or its own word.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "signal-chain",
+      "source": "./plugins/signal-chain",
+      "description": "It ranks ways of carrying a message by how costly each is for the reader to decode, from faces and voices to writing and symbols, so you choose the one they can afford.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "skill-design",
+      "source": "./plugins/skill-design",
+      "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
+      "version": "1.0.7",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "unblock",
+      "source": "./plugins/unblock",
+      "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about anything hard to reverse, outward-facing or costly.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "why-this-piece",
+      "source": "./plugins/why-this-piece",
+      "description": "Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us.",
+      "version": "1.0.5",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    }
+  ]
+}

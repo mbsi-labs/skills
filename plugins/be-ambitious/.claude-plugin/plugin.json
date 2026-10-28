@@ -1,0 +1,9 @@
+{
+  "name": "be-ambitious",
+  "version": "1.0.2",
+  "description": "Before your agent starts, it asks what the job is really for and what an expert would do, then asks for more than you first typed.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

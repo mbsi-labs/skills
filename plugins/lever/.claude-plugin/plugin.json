@@ -1,0 +1,9 @@
+{
+  "name": "lever",
+  "version": "1.0.1",
+  "description": "When the work isn't trivial, it has your agent write the script that does it, rerun it on the first unit and diff the result against the hand version.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

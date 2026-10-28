@@ -1,0 +1,9 @@
+{
+  "name": "but-therefore",
+  "version": "1.0.1",
+  "description": "Rebuilds a devlog or post as a chain of \"but\" and \"therefore\" instead of \"and then\".",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

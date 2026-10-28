@@ -1,0 +1,9 @@
+{
+  "name": "encode-lessons",
+  "version": "1.0.2",
+  "description": "When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

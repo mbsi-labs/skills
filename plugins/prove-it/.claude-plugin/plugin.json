@@ -1,0 +1,9 @@
+{
+  "name": "prove-it",
+  "version": "1.0.1",
+  "description": "Before your agent says it is done, it runs the real program from outside and reads what it prints, instead of trusting a compile, a cached screenshot or its own word.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

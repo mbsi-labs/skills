@@ -1,0 +1,9 @@
+{
+  "name": "cognitive-prophylactics",
+  "version": "1.0.1",
+  "description": "Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "signal-chain",
+  "version": "1.0.2",
+  "description": "It ranks ways of carrying a message by how costly each is for the reader to decode, from faces and voices to writing and symbols, so you choose the one they can afford.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}
