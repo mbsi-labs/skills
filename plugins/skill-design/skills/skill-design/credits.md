@@ -2,4 +2,6 @@
 
 Where the lines in SKILL.md came from. SKILL.md does not load this file.
 
-1. The Aion line (people-facing skills drafted by Aion 3.5 from the ground up, examples from another domain): Mackenzie, 2026-10-23 13:13, "Agents should also use Aion for skill development in other ways - agents can ask Aion to draft a skill from the ground up to center emotions, not just exemplar mining." Context: Aion 3.5 led a blind 7-model test of design step 3, and its examples leaked into weaker models when copied from the skill's own domain.
+1. Small, because of implicit claims: Mackenzie, 2026-10-16 13:58, "our lever is environment changes, and that pareto-optimal environment changes are **small**, and they are small **because** data-vomit sideloads a bunch of implicit claims that cause runaway misalignment."
+2. Technical register, and name the class rather than list examples: Mackenzie, 2026-10-28 13:56.
+3. Removed 2026-10-28: a line that had people-facing skills drafted by a particular feelings model. Mackenzie (20:48): "I don't rly get what the aion line is doing in there?" Which model drafts people-facing work is a writing question, covered where that model is prompted, not a skill-design step.

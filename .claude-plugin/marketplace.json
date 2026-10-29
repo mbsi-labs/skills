@@ -101,7 +101,7 @@
       "name": "skill-design",
       "source": "./plugins/skill-design",
       "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "author": {
         "name": "Mackenzie Bowes"
       }
