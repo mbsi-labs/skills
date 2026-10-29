@@ -37,7 +37,7 @@ Synthesis, unless a step names a source.
 ## 3. What is untested and what is open
 
 1. Every step is a first draft. The single tested link in the chain (1.2.1, 1.2.3) is lab work on how appeal and credibility form quickly; none of it tests "dated".
-2. The 2015 to 2016 evidence is four saved pages (Trootech, DeveloperDrive, DesignPieces 2013, NN/g 2016). Twig saved June 2016 Internet Archive snapshots of three SaaS sites (Basecamp, FreshBooks, Mailchimp) and their current pages; I have not compared them, and no small-business sites or screenshots exist yet. That comparison is the worked example still to do.
+2. The 2015 to 2016 evidence is four saved pages (Trootech, DeveloperDrive, DesignPieces 2013, NN/g 2016). June 2016 Internet Archive snapshots were saved of three SaaS sites (Basecamp, FreshBooks, Mailchimp) and their current pages; they have not been compared, and no small-business sites or screenshots exist yet. That comparison is the worked example still to do.
 3. The carousel finding is NN/g's summary line, not the study. The parallax finding is a 2013 dissertation record (1.4.3).
 4. The tinyfrog and line25 pages are agency blogs. Their "fading" and "rising" lists are opinions about fashion.
 5. The "default AI look" is one opinion piece (1.4.5).
