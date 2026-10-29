@@ -33,6 +33,12 @@ These skills draw on the work of others, listed per skill. Everything else is MI
 
 - principle-* skills in pstack, by Lauren Tan (https://github.com/cursor/plugins). Licence: MIT. Adapted; pstack's licence reads Copyright (c) 2026 Lauren Tan.
 
+## scene-sections
+
+- Image prompting guide, by OpenAI (https://developers.openai.com/api/docs/guides/image-prompting). Licence: none (cited, not copied). Sketch as a layout reference; a number and a role for each reference image.
+- Nano Banana Pro prompting guide, by Google (https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n). Licence: none (cited, not copied). Section 9, structural control and layout guidance.
+- Visual attentional orienting by eye gaze: a meta-analytic review of the gaze-cueing effect, by Psychological Bulletin, 2021 (https://pubmed.ncbi.nlm.nih.gov/35404635/). Licence: none (cited, not copied). Gaze reliably directs observers' attention.
+
 ## unblock
 
 - principle-* skills in pstack, by Lauren Tan (https://github.com/cursor/plugins). Licence: MIT. Adapted; pstack's licence reads Copyright (c) 2026 Lauren Tan.

@@ -62,6 +62,15 @@
       }
     },
     {
+      "name": "eval-design",
+      "source": "./plugins/eval-design",
+      "description": "It turns 'is the agent better now?' into a question asked of many items of real work, with a named judge and a figure you can track.",
+      "version": "1.0.3",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
       "name": "first-principles",
       "source": "./plugins/first-principles",
       "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
@@ -83,6 +92,15 @@
       "name": "prove-it",
       "source": "./plugins/prove-it",
       "description": "Before your agent says it is done, it runs the real program from outside and reads what it prints, instead of trusting a compile, a cached screenshot or its own word.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "scene-sections",
+      "source": "./plugins/scene-sections",
+      "description": "It sets each generated scene behind its section's words, drawn for where those words go, with its own render for phones and desktops.",
       "version": "1.0.1",
       "author": {
         "name": "Mackenzie Bowes"

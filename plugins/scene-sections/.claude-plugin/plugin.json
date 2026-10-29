@@ -1,0 +1,9 @@
+{
+  "name": "scene-sections",
+  "version": "1.0.1",
+  "description": "It sets each generated scene behind its section's words, drawn for where those words go, with its own render for phones and desktops.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

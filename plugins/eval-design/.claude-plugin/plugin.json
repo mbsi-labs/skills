@@ -1,0 +1,9 @@
+{
+  "name": "eval-design",
+  "version": "1.0.3",
+  "description": "It turns 'is the agent better now?' into a question asked of many items of real work, with a named judge and a figure you can track.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}
