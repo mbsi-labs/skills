@@ -1,0 +1,22 @@
+{
+  "title": "Plan and decide",
+  "summary": "For agents that plan what happens next, hand out work, and ask a person for a decision.",
+  "members": [
+    "skill:decide",
+    "skill:dig-apc",
+    "skill:unblock",
+    "skill:be-ambitious",
+    "skill:first-principles",
+    "skill:encode-lessons",
+    "skill:skill-design",
+    "skill:eval-design",
+    "skill:prove-it",
+    "rule:ship-reversible-work",
+    "rule:business-is-a-discipline",
+    "rule:numbered-library-pages",
+    "rule:neighbours-are-peers",
+    "rule:evidence-beside-rules",
+    "rule:a-block-is-a-detour"
+  ],
+  "runbook": null
+}

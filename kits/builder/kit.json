@@ -1,0 +1,13 @@
+{
+  "title": "Builder",
+  "summary": "For agents that write and change code from a brief: a command, a site, a page or a migration.",
+  "members": [
+    "skill:lever",
+    "skill:prove-it",
+    "skill:first-principles",
+    "skill:eval-design",
+    "skill:encode-lessons",
+    "rule:state-machines"
+  ],
+  "runbook": null
+}
