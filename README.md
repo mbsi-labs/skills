@@ -8,9 +8,10 @@ Install the collection in Claude Code:
 
 ```
 /plugin marketplace add mbsi-labs/skills
+/plugin install mbsi@skills
 ```
 
-Then install any skill below with `/plugin install <name>@skills`.
+That installs every skill, shown as mbsi:<name>. To install just one, use `/plugin install <name>@skills` (do not install both ways: a skill would show twice).
 
 | Skill | What it does |
 |---|---|
