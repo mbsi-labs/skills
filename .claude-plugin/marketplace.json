@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 15 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.34",
+      "description": "All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.36",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -138,6 +138,24 @@
       "source": "./plugins/unblock",
       "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about anything hard to reverse, outward-facing or costly.",
       "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "verbalized-sampling",
+      "source": "./plugins/verbalized-sampling",
+      "description": "Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "visual-hierarchy",
+      "source": "./plugins/visual-hierarchy",
+      "description": "Ranks everything on a screen by what matters to its person now, then makes the top ranks win with size, space, enclosure and position, not colour alone.",
+      "version": "1.0.1",
       "author": {
         "name": "Mackenzie Bowes"
       }

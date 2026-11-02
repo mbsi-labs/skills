@@ -43,4 +43,14 @@ These skills draw on the work of others, listed per skill. Everything else is MI
 
 - principle-* skills in pstack, by Lauren Tan (https://github.com/cursor/plugins). Licence: MIT. Adapted; pstack's licence reads Copyright (c) 2026 Lauren Tan.
 
+## verbalized-sampling
+
+- Verbalized Sampling prompting technique, by Jiayi Zhang, Simon Yu, Derek Chong, Anthony Sicilia, Michael R. Tomz, Christopher D. Manning, Weiyan Shi (https://arxiv.org/abs/2510.01171). Licence: arXiv paper; technique described in our own words. The steps follow the paper's VS-Standard prompt with probability tuning (k = 5, sample from the full distribution, tail probability below a threshold).
+
+## visual-hierarchy
+
+- Visual Hierarchy in UX; Scrolling and Attention; F-Shaped Pattern; Photos as Web Content, by Nielsen Norman Group (https://www.nngroup.com/articles/visual-hierarchy-ux-definition/). Licence: Cited, not copied. Short quotations and findings, credited in credits.md.
+- Faces and Viewing Behavior, by Soussan Djamasbi, Marisa Siegel and Tom Tullis. Licence: Cited, not copied. 2012 eye-tracking studies; one finding paraphrased.
+- impeccable (bolder command), by Paul Bakaus (https://github.com/pbakaus/impeccable). Licence: Apache-2.0. The idea of amplifying what a design already owns is borrowed, not copied.
+
 By Mackenzie Bowes, with MBSI's agents.

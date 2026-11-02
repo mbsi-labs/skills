@@ -1,0 +1,9 @@
+{
+  "name": "verbalized-sampling",
+  "version": "1.0.1",
+  "description": "Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

@@ -1,7 +1,7 @@
 {
   "name": "mbsi",
-  "version": "1.0.34",
-  "description": "All 15 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+  "version": "1.0.36",
+  "description": "All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
   "author": {
     "name": "Mackenzie Bowes"
   },
