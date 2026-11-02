@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.39",
+      "description": "All 18 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.41",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -30,6 +30,15 @@
       "source": "./plugins/but-therefore",
       "description": "Rebuilds a devlog or post as a chain of \"but\" and \"therefore\" instead of \"and then\".",
       "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "claims",
+      "source": "./plugins/claims",
+      "description": "It has your agent list every claim in a plan or sentence, the unstated ones first, numbered, so you can strike the wrong ones by number and it rebuilds from what's left.",
+      "version": "1.0.4",
       "author": {
         "name": "Mackenzie Bowes"
       }

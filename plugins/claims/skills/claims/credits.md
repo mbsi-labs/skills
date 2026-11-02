@@ -1,0 +1,1 @@
+From Heron and Mackenzie's session, 2026-10-16. Mackenzie: 11:08 "List every claim in this sentence in STE"; 11:10 "List every claim, implicit and explicit ... List apc"; 11:27 "Restart numbering after you finish listing claims so I can correct claim-n or apc-n as needed." Pairs with the dig-apc skill.

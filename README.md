@@ -17,6 +17,7 @@ That installs every skill, shown as mbsi:<name>. To install just one, use `/plug
 |---|---|
 | [be-ambitious](plugins/be-ambitious/README.md) | Before your agent starts, it asks what the job is really for and what an expert would do, then asks for more than you first typed. |
 | [but-therefore](plugins/but-therefore/README.md) | Rebuilds a devlog or post as a chain of "but" and "therefore" instead of "and then". |
+| [claims](plugins/claims/README.md) | It has your agent list every claim in a plan or sentence, the unstated ones first, numbered, so you can strike the wrong ones by number and it rebuilds from what's left. |
 | [cognitive-prophylactics](plugins/cognitive-prophylactics/README.md) | Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it. |
 | [decide](plugins/decide/README.md) | It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check. |
 | [dig-apc](plugins/dig-apc/README.md) | After a failure, it has your agent write what it did and what it believed, as axioms, principles and cruxes, then test each belief to find the one that is wrong. |

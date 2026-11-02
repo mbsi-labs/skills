@@ -1,0 +1,9 @@
+{
+  "name": "claims",
+  "version": "1.0.4",
+  "description": "It has your agent list every claim in a plan or sentence, the unstated ones first, numbered, so you can strike the wrong ones by number and it rebuilds from what's left.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

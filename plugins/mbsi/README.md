@@ -2,7 +2,7 @@
 
 By Mackenzie Bowes, with MBSI's agents.
 
-All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.
+All 18 MBSI skills in one plugin, so each one shows as mbsi:<name>.
 
 ## Install
 
@@ -15,6 +15,7 @@ All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.
 |---|---|
 | mbsi:be-ambitious | Before your agent starts, it asks what the job is really for and what an expert would do, then asks for more than you first typed. |
 | mbsi:but-therefore | Rebuilds a devlog or post as a chain of "but" and "therefore" instead of "and then". |
+| mbsi:claims | It has your agent list every claim in a plan or sentence, the unstated ones first, numbered, so you can strike the wrong ones by number and it rebuilds from what's left. |
 | mbsi:cognitive-prophylactics | Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it. |
 | mbsi:decide | It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check. |
 | mbsi:dig-apc | After a failure, it has your agent write what it did and what it believed, as axioms, principles and cruxes, then test each belief to find the one that is wrong. |
