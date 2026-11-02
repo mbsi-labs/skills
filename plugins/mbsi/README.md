@@ -28,5 +28,5 @@ All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.
 | mbsi:skill-design | A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked. |
 | mbsi:unblock | Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about anything hard to reverse, outward-facing or costly. |
 | mbsi:verbalized-sampling | Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer. |
-| mbsi:visual-hierarchy | Ranks everything on a screen by what matters to its person now, then makes the top ranks win with size, space, enclosure and position, not colour alone. |
+| mbsi:visual-hierarchy | Ranks everything on a screen by what the screen is for and who it is for, then makes that order visible with size, weight, space, grouping and position. |
 | mbsi:why-this-piece | Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us. |

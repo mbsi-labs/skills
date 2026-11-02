@@ -6,7 +6,4 @@
    3. Nielsen Norman Group, "F-Shaped Pattern of Reading on Web Content".
    4. Nielsen Norman Group, "Photos as Web Content": people ignore generic stock photos and look at images that carry task-relevant information.
    5. Djamasbi, Siegel and Tullis (2012), "Faces and Viewing Behavior": faces did not increase the number of people who viewed the areas where they were placed.
-2. Mackenzie Bowes (2026-11-02), on an app greybox:
-   1. 07:51: "you showed us what 5 months of books looks like, but what about 9? What about 15? ... humans live for a long time." This became steps 2.3 and mistake 7.
-   2. 07:56: "*this year's books* are muy importante, and *this months* are the most important of all. You're using contrast alone for that - pump it up." This became steps 2.2, 5 and 10.
-3. Step 10's "amplify what the design already owns" follows the `bolder` command of the impeccable design skill (pbakaus/impeccable, Apache-2.0).
+2. Mackenzie Bowes (2026-11-02), on an app greybox, 07:51: "you showed us what 5 months of books looks like, but what about 9? What about 15? ... humans live for a long time." This became step 3 and mistake 6.

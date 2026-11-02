@@ -1,7 +1,7 @@
 {
   "name": "visual-hierarchy",
-  "version": "1.0.1",
-  "description": "Ranks everything on a screen by what matters to its person now, then makes the top ranks win with size, space, enclosure and position, not colour alone.",
+  "version": "1.0.2",
+  "description": "Ranks everything on a screen by what the screen is for and who it is for, then makes that order visible with size, weight, space, grouping and position.",
   "author": {
     "name": "Mackenzie Bowes"
   },

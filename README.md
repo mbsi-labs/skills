@@ -30,7 +30,7 @@ That installs every skill, shown as mbsi:<name>. To install just one, use `/plug
 | [skill-design](plugins/skill-design/README.md) | A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked. |
 | [unblock](plugins/unblock/README.md) | Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about anything hard to reverse, outward-facing or costly. |
 | [verbalized-sampling](plugins/verbalized-sampling/README.md) | Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer. |
-| [visual-hierarchy](plugins/visual-hierarchy/README.md) | Ranks everything on a screen by what matters to its person now, then makes the top ranks win with size, space, enclosure and position, not colour alone. |
+| [visual-hierarchy](plugins/visual-hierarchy/README.md) | Ranks everything on a screen by what the screen is for and who it is for, then makes that order visible with size, weight, space, grouping and position. |
 | [why-this-piece](plugins/why-this-piece/README.md) | Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us. |
 
 Third-party sources are listed in NOTICE.md. Each skill is licensed as its own folder says; the rest is MIT.
