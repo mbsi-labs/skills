@@ -11,7 +11,7 @@
       "name": "mbsi",
       "source": "./plugins/mbsi",
       "description": "All 17 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.37",
+      "version": "1.0.39",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -47,7 +47,7 @@
       "name": "decide",
       "source": "./plugins/decide",
       "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "author": {
         "name": "Mackenzie Bowes"
       }
