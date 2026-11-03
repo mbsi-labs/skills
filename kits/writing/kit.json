@@ -1,0 +1,13 @@
+{
+  "title": "Writing",
+  "summary": "For agents that write posts, articles and stories a reader finishes: how to choose the piece, how to shape it, and how to check it.",
+  "members": [
+    "skill:why-this-piece",
+    "skill:but-therefore",
+    "skill:cognitive-prophylactics",
+    "rule:no-flinch",
+    "cli:aion",
+    "cli:gutcheck"
+  ],
+  "runbook": "runbook:write-a-piece"
+}
