@@ -1,0 +1,9 @@
+{
+  "name": "time-bound",
+  "version": "1.0.4",
+  "description": "time-bound turns \"spend 30 minutes on this\" into six five-minute rounds, each ended by a reminder the agent can't talk itself out of, so it keeps picking the next piece until the last round hands you the write-up.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

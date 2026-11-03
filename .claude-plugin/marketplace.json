@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 18 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.41",
+      "description": "All 19 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.45",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -138,6 +138,15 @@
       "source": "./plugins/skill-design",
       "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
       "version": "1.0.8",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "time-bound",
+      "source": "./plugins/time-bound",
+      "description": "time-bound turns \"spend 30 minutes on this\" into six five-minute rounds, each ended by a reminder the agent can't talk itself out of, so it keeps picking the next piece until the last round hands you the write-up.",
+      "version": "1.0.4",
       "author": {
         "name": "Mackenzie Bowes"
       }
