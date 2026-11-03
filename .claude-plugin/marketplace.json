@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 19 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.45",
+      "description": "All 20 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.53",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -93,6 +93,15 @@
       "source": "./plugins/first-principles",
       "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
       "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "lecture",
+      "source": "./plugins/lecture",
+      "description": "Before work in a craft your agent hasn't studied, it gives the lecture a leading university would give on it, checks the claims and why they work, and writes the steps as a runbook its next session starts from.",
+      "version": "1.0.8",
       "author": {
         "name": "Mackenzie Bowes"
       }

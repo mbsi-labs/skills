@@ -24,6 +24,7 @@ That installs every skill, shown as mbsi:<name>. To install just one, use `/plug
 | [encode-lessons](plugins/encode-lessons/README.md) | When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text. |
 | [eval-design](plugins/eval-design/README.md) | It turns 'is the agent better now?' into a question asked of many items of real work, with a named judge and a figure you can track. |
 | [first-principles](plugins/first-principles/README.md) | When a rule changes, it redesigns the type model or module from the start instead of adding another special case. |
+| [lecture](plugins/lecture/README.md) | Before work in a craft your agent hasn't studied, it gives the lecture a leading university would give on it, checks the claims and why they work, and writes the steps as a runbook its next session starts from. |
 | [lever](plugins/lever/README.md) | When the work isn't trivial, it has your agent write the script that does it, rerun it on the first unit and diff the result against the hand version. |
 | [prove-it](plugins/prove-it/README.md) | Before your agent says it is done, it runs the real program from outside and reads what it prints, instead of trusting a compile, a cached screenshot or its own word. |
 | [scene-sections](plugins/scene-sections/README.md) | It sets each generated scene behind its section's words, drawn for where those words go, with its own render for phones and desktops. |
