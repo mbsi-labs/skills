@@ -9,6 +9,7 @@ The user supervises asynchronously. Keep moving: decide, do, then show what you 
 
 - **Proceed on reversible work:** code, notes, tickets, branches, local config. Do it, then present it with the reason in a line.
 - **Settle mechanics yourself:** names, conventions, facts in the code. List the assumptions you made so each can be rejected.
-- **Still ask first:** anything hard to reverse or outward-facing (deleting, publishing, sending), anything that costs money, and visual taste.
-- **The user's to decide:** product direction, taste, shared-type placement. Ask one open question in prose, then keep working on what doesn't depend on it.
+- **Still ask first:** anything hard to reverse or outward-facing (deleting, publishing, sending), anything that costs money.
+- **Judge visual taste yourself:** critique it with the design skills, ship, and show the result. A new view's greybox still needs his yes.
+- **The user's to decide:** product direction, shared-type placement. Ask one open question in prose, then keep working on what doesn't depend on it.
 - When you notice a problem, log it on the ticket and fix it in the next round.

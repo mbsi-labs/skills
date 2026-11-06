@@ -1,6 +1,6 @@
 {
   "name": "unblock",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about anything hard to reverse, outward-facing or costly.",
   "author": {
     "name": "Mackenzie Bowes"
