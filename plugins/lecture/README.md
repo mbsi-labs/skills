@@ -34,10 +34,10 @@ Open https://mackenziebowes.com/skills/text/lecture.txt, copy all of it, and pas
 
 ## Recent changes
 
+- 2026-11-05 (69d9694): Updated.
+- 2026-11-05 (a6baa0f): Updated.
 - 2026-11-03 (eaca17e): Updated.
 - 2026-11-03 (501d6f7): lecture credits: state the fact, not a bare ticket number
 - 2026-11-03 (527f018): lecture: portable for publishing; page.json public
-- 2026-10-27 (64eda83): Updated.
-- 2026-10-26 (070c1c3): Updated.
 
 The full list is in CHANGELOG.md.

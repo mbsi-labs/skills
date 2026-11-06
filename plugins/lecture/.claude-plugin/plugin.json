@@ -1,6 +1,6 @@
 {
   "name": "lecture",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Before work in a craft your agent hasn't studied, it gives the lecture a leading university would give on it, checks the claims and why they work, and writes the steps as a runbook its next session starts from.",
   "author": {
     "name": "Mackenzie Bowes"
