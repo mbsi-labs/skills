@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 20 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.56",
+      "description": "All 21 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.64",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -57,6 +57,15 @@
       "source": "./plugins/decide",
       "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
       "version": "1.0.3",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "design-docs",
+      "source": "./plugins/design-docs",
+      "description": "Writes a short design a person can steer before you build: the ticket, the types down to their leaves, the state machine and the assumptions, with silver and gold tiers when the change needs traced scenarios, a model check or a film.",
+      "version": "1.0.8",
       "author": {
         "name": "Mackenzie Bowes"
       }

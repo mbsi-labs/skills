@@ -20,6 +20,7 @@ That installs every skill, shown as mbsi:<name>. To install just one, use `/plug
 | [claims](plugins/claims/README.md) | It has your agent list every claim in a plan or sentence, the unstated ones first, numbered, so you can strike the wrong ones by number and it rebuilds from what's left. |
 | [cognitive-prophylactics](plugins/cognitive-prophylactics/README.md) | Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it. |
 | [decide](plugins/decide/README.md) | It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check. |
+| [design-docs](plugins/design-docs/README.md) | Writes a short design a person can steer before you build: the ticket, the types down to their leaves, the state machine and the assumptions, with silver and gold tiers when the change needs traced scenarios, a model check or a film. |
 | [dig-apc](plugins/dig-apc/README.md) | After a failure, it has your agent write what it did and what it believed, as axioms, principles and cruxes, then test each belief to find the one that is wrong. |
 | [encode-lessons](plugins/encode-lessons/README.md) | When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text. |
 | [eval-design](plugins/eval-design/README.md) | It turns 'is the agent better now?' into a question asked of many items of real work, with a named judge and a figure you can track. |

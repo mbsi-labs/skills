@@ -17,6 +17,10 @@ These skills draw on the work of others, listed per skill. Everything else is MI
 - Letter to Shareholders for 2015 (one-way and two-way doors), by Jeff Bezos, Amazon (https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm). Licence: None stated. Only the idea is credited: decisions that are hard to reverse get more care than ones that are easy to reverse. No text is reused.
 - Performing a Project Premortem, by Gary Klein (https://hbr.org/2007/09/performing-a-project-premortem). Licence: None stated. Harvard Business Review, September 2007. Only the idea is credited: imagine the plan has already failed, then say why. No text is reused.
 
+## design-docs
+
+- Quint, by Informal Systems (https://github.com/informalsystems/quint). Licence: Apache-2.0. The silver tier tells you to model-check the state machines with the quint command. The skill does not include Quint; you install it yourself.
+
 ## encode-lessons
 
 - principle-* skills in pstack, by Lauren Tan (https://github.com/cursor/plugins). Licence: MIT. Adapted; pstack's licence reads Copyright (c) 2026 Lauren Tan.
