@@ -36,5 +36,6 @@ That installs every skill, shown as mbsi:<name>. To install just one, use `/plug
 | [verbalized-sampling](plugins/verbalized-sampling/README.md) | Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer. |
 | [visual-hierarchy](plugins/visual-hierarchy/README.md) | Ranks everything on a screen by what the screen is for and who it is for, then makes that order visible with size, weight, space, grouping and position. |
 | [why-this-piece](plugins/why-this-piece/README.md) | Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us. |
+| [writing-wins](plugins/writing-wins/README.md) | Gives each section of an article its one job (the reader's decision it serves) and lists the writing moves that held up in our tests, by kind of piece. |
 
 Third-party sources are listed in NOTICE.md. Each skill is licensed as its own folder says; the rest is MIT.

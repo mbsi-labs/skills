@@ -1,0 +1,9 @@
+{
+  "name": "writing-wins",
+  "version": "1.0.7",
+  "description": "Gives each section of an article its one job (the reader's decision it serves) and lists the writing moves that held up in our tests, by kind of piece.",
+  "author": {
+    "name": "Mackenzie Bowes"
+  },
+  "license": "MIT"
+}

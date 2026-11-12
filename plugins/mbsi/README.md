@@ -2,7 +2,7 @@
 
 By Mackenzie Bowes, with MBSI's agents.
 
-All 21 MBSI skills in one plugin, so each one shows as mbsi:<name>.
+All 22 MBSI skills in one plugin, so each one shows as mbsi:<name>.
 
 ## Install
 
@@ -34,3 +34,4 @@ All 21 MBSI skills in one plugin, so each one shows as mbsi:<name>.
 | mbsi:verbalized-sampling | Answer one question with several different answers, each with the probability you give it, instead of the single most typical answer. |
 | mbsi:visual-hierarchy | Ranks everything on a screen by what the screen is for and who it is for, then makes that order visible with size, weight, space, grouping and position. |
 | mbsi:why-this-piece | Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us. |
+| mbsi:writing-wins | Gives each section of an article its one job (the reader's decision it serves) and lists the writing moves that held up in our tests, by kind of piece. |

@@ -1,0 +1,3 @@
+# Credits
+
+Found by Writer on 2026-10-18 and checked against Mackenzie's verdicts and full-article tests (writer-notes.pages.dev, table at the top). Threading as one rule ("open throughout, all closed at the end") is Mackenzie's correction, 10:00 and 12:10. The first two lines are the strongest wins (reader fit and closeness to the reader's own writers, on 172 verdicts), generalised from Writer's customer wording after Mackenzie asked at 14:20 why they were left out. Left out on purpose: the headline word buckets, which were overfit. Pairs with why-this-piece (Mackenzie, 14:18: "Both sides are important, the sauce is them together. Separate skills, please.").

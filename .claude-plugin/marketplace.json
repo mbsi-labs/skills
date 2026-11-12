@@ -10,8 +10,8 @@
     {
       "name": "mbsi",
       "source": "./plugins/mbsi",
-      "description": "All 21 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.66",
+      "description": "All 22 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
+      "version": "1.0.73",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -201,6 +201,15 @@
       "source": "./plugins/why-this-piece",
       "description": "Before you write, it asks four questions in writing: the point of the piece, why a reader would care, the business goal, and what making it says about us.",
       "version": "1.0.5",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "writing-wins",
+      "source": "./plugins/writing-wins",
+      "description": "Gives each section of an article its one job (the reader's decision it serves) and lists the writing moves that held up in our tests, by kind of piece.",
+      "version": "1.0.7",
       "author": {
         "name": "Mackenzie Bowes"
       }
