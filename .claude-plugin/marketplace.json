@@ -11,7 +11,7 @@
       "name": "mbsi",
       "source": "./plugins/mbsi",
       "description": "All 21 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.65",
+      "version": "1.0.66",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -128,7 +128,7 @@
       "name": "prove-it",
       "source": "./plugins/prove-it",
       "description": "Before your agent says it is done, it runs the real program from outside and reads what it prints, instead of trusting a compile, a cached screenshot or its own word.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
