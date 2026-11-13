@@ -11,7 +11,7 @@
       "name": "mbsi",
       "source": "./plugins/mbsi",
       "description": "All 22 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.73",
+      "version": "1.0.75",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -29,7 +29,7 @@
       "name": "but-therefore",
       "source": "./plugins/but-therefore",
       "description": "Rebuilds a devlog or post as a chain of \"but\" and \"therefore\" instead of \"and then\".",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -47,7 +47,7 @@
       "name": "cognitive-prophylactics",
       "source": "./plugins/cognitive-prophylactics",
       "description": "Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }

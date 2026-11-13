@@ -44,7 +44,7 @@ The rule holds at every size: between sections of a post, between paragraphs, be
 
 ## In a devlog
 
-A devlog's natural chain: **I wanted X, therefore I built Y, but Y broke in this way, therefore I learned Z and built W, but…** The failures are the "but"s, which makes them the most valuable beats in the post, not embarrassments to tidy away. Keep dead ends in the order they happened, joined by what they caused.
+A devlog's natural chain: **I wanted X, therefore I built Y, but Y broke in this way, therefore I learned Z and built W, but…** The failures are the "but"s, which makes them the most valuable beats in the post, not embarrassments to tidy away. Keep dead ends in the order they happened, joined by what they caused. A "but" happens to the plan, the tool or the common advice, never to the author's competence: write "the standard fix broke on X", not "I got it wrong". The user is the one who sees why and builds the next thing (`writing-wins`: no confession, no self-deprecation).
 
 ## Example
 
