@@ -7,10 +7,9 @@ description: "Prove it works before saying done: check the real thing (run the p
 
 Unverified work has unknown correctness. Check the real thing directly.
 
-- Run the real program from outside and read what it prints (a demonstration, `definitions.md`). Not mtimes, not a cached screenshot, not an agent's word.
+- Use the built thing the way its person does (a demonstration, `definitions.md`). A command: run it and read what it prints. A window: open it on a desktop of its own, where it cannot take the person's keyboard, look at it, press its keys, and write down what you saw on screen. Not mtimes, not a cached screenshot, not an agent's word, and not a fake, a scene, a still or a scratch copy of the product.
 - Check liveness directly (the process, the listener), not state derived from it.
 - When a check fails, suspect the way you looked before you suspect the system.
 - An empty result proves nothing: a grep with no match, an empty `git log A..B`, a curl that printed nothing. A wrong query, a redirect or a script that exited early look the same. Pair every "X is gone" with a count of something that must be there (the page title, the function's name), and run the check in a call of its own so its output can't be confused with another command's.
-- Script the check when you can, so a reviewer reruns it instead of trusting you. Put the command and its output in the hand-back.
-- A script that proves a fix is a demonstration, not a new test. Add a test only for a promise no step checks yet (`code-standards.md`).
-- Visual results go to the user, shown inline. Their eyes are the check.
+- Put what you did and what you saw in the hand-back. Keep no script and no check file: someone who did not build it will use it after you.
+- Look at a visual result yourself first, on that desktop. The user sees it after you have used it.
