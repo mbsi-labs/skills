@@ -11,7 +11,7 @@
       "name": "mbsi",
       "source": "./plugins/mbsi",
       "description": "All 22 MBSI skills in one plugin, so each one shows as mbsi:<name>.",
-      "version": "1.0.79",
+      "version": "1.0.80",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -155,7 +155,7 @@
       "name": "skill-design",
       "source": "./plugins/skill-design",
       "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "author": {
         "name": "Mackenzie Bowes"
       }

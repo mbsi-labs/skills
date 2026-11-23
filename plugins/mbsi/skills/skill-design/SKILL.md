@@ -1,16 +1,22 @@
 ---
 name: skill-design
-description: "Change how Claudes behave through their environment (a skill, rule, CLAUDE.md, hook or brief) with the smallest change that research and a test show works. Use when making, editing or ratcheting a skill, rule, CLAUDE.md, AGENTS.md or hook, or when invoked as /skill-design."
+description: "Call this skill to learn how to write a skill that changes how other Claudes work, by modelling it on skills that already work here. Use it before you write a new skill, rule or brief, and when a skill you wrote keeps producing generic or over-specified work."
 ---
 
-# Skill design: small, researched, tested
+# Design a skill
 
-Every line in a loaded file carries implicit claims that nobody checked, and they add up to drift. So the best change to an agent's environment is a small one.
+Stand on the shoulders of giants. Read the skills the user wrote by hand (`outreach-dm`, `create-valuable-software`, `claims`) and the ones we adopted from poteto (`first-principles`), then write yours the same way. Don't search for a perfect skill with rounds of evals: that spends a lot of tokens to get a skill that's longer and worse.
 
-A change to a skill, rule, CLAUDE.md or hook ships only when all three hold:
+1. **As long as the job needs.** Here's the range:
+   - `first-principles`, about 180 words, is a reframe. It's one question ("Writing this from scratch with this requirement, what would we build?") and the signs that you didn't ask it.
+   - `claims`, about 300 words, is a protocol: number every claim, then take the strikes.
+   - `outreach-dm`, about 440 words, is a craft recipe: three parts of a message, plus a checklist file beside it.
+   - `create-valuable-software`, about 1,200 words, is a lecture. It builds a model of the world from the bottom up (neurons, glycogen, reward) before it gives any steps.
 
-1. **Small.** One or two intentful changes. If yours is longer, cut it to the one or two that matter before it ships; don't plan to trim it later.
-2. **Researched.** You looked up the problem the change is for, in sources rather than memory.
-3. **Tested.** Run the same task with the change and without it, a few times each, and look for the behaviour the change is for. If the runs look the same, the change does nothing yet.
+   The length follows from how much the reader's beliefs have to change. A reframe or a protocol works on a reader who already sees the world correctly. A lecture has to change how they see it first.
+2. **A description that says when to call it and what calling it earns.** "This skill teaches you how to get good at writing outreach DMs." "Call this skill to learn how to build valuable software for humans - the neuroscience under the hood." An agent calls a skill because of what it will gain from it.
+3. **Give the mechanism, and derive the behaviour from it.** `claims` opens with why misalignment hides in implicit claims. `create-valuable-software` builds to one law ("A person only keeps doing something while the expected reward of the next step is greater than its cost...") and draws its guards from that law. A reader who has the mechanism can handle cases you never listed.
+4. **Name the common failure outright.** "Every other AI DM skill recommends saying something specific about that person ... being specific about them is no longer pattern breaking." Naming the naive move is what moves the reader off its default.
+5. **Point at the evidence instead of inlining it.** End with a "More" list of library runbooks and worked examples. Put checklists in a file beside the skill (`tics.md`).
 
-Write it in a technical register: a defined term ("user-facing view", "hydration") carries what a sentence of plain words would. Name the class, not instances; a list of examples reads as exhaustive, and whatever is missing from it reads as exempt.
+Trust the reader. A skill that tries to specify everything gets followed like a parts list, and the work comes back weirdly specific.

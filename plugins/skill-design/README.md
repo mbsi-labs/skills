@@ -6,7 +6,7 @@ A change to a skill, rule or hook ships only if it is small, one or two intentfu
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): Change how Claudes behave through their environment (a skill, rule, CLAUDE.md, hook or brief) with the smallest change that research and a test show works. Use when making, editing or ratcheting a skill, rule, CLAUDE.md, AGENTS.md or hook, or when invoked as /skill-design.
+For your agent (the text it matches on): Call this skill to learn how to write a skill that changes how other Claudes work, by modelling it on skills that already work here. Use it before you write a new skill, rule or brief, and when a skill you wrote keeps producing generic or over-specified work.
 
 ## Install
 
@@ -34,10 +34,10 @@ Open https://mackenziebowes.com/skills/text/skill-design.txt, copy all of it, an
 
 ## Recent changes
 
+- 2026-11-23 (5d103ac): Updated.
 - 2026-10-28 (7f5c378): skill-design: drop the Aion line, quotes to credits, 'refused' becomes an instruction, say how to test
 - 2026-10-28 (996e89c): skill-design and unblock: steps stand alone for a reader without our private files
 - 2026-10-28 (c89eccb): skill-design: technical register, and name the class rather than list examples
 - 2026-10-23 (e0b2c69): Updated.
-- 2026-10-23 (20eee21): Updated.
 
 The full list is in CHANGELOG.md.
