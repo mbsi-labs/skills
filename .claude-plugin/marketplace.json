@@ -20,7 +20,7 @@
       "name": "be-ambitious",
       "source": "./plugins/be-ambitious",
       "description": "Before your agent starts, it asks what the job is really for and what an expert would do, then asks for more than you first typed.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -44,28 +44,19 @@
       }
     },
     {
-      "name": "cognitive-prophylactics",
-      "source": "./plugins/cognitive-prophylactics",
-      "description": "Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it.",
+      "name": "code-design-docs-style",
+      "source": "./plugins/code-design-docs-style",
+      "description": "Writes a short design a person can steer before you build: the ticket, the types down to their leaves, the state machine and the assumptions, with silver and gold tiers when the change needs traced scenarios, a model check or a film.",
       "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
     },
     {
-      "name": "decide",
-      "source": "./plugins/decide",
-      "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
-      "version": "1.0.3",
-      "author": {
-        "name": "Mackenzie Bowes"
-      }
-    },
-    {
-      "name": "design-docs",
-      "source": "./plugins/design-docs",
-      "description": "Writes a short design a person can steer before you build: the ticket, the types down to their leaves, the state machine and the assumptions, with silver and gold tiers when the change needs traced scenarios, a model check or a film.",
-      "version": "1.0.8",
+      "name": "cognitive-prophylactics",
+      "source": "./plugins/cognitive-prophylactics",
+      "description": "Before you draft, it asks for one line: the situation your reader might meet and the move that lifts or lowers their standing in it.",
+      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -80,28 +71,10 @@
       }
     },
     {
-      "name": "encode-lessons",
-      "source": "./plugins/encode-lessons",
-      "description": "When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text.",
-      "version": "1.0.2",
-      "author": {
-        "name": "Mackenzie Bowes"
-      }
-    },
-    {
       "name": "eval-design",
       "source": "./plugins/eval-design",
       "description": "It turns 'is the agent better now?' into a question asked of many items of real work, with a named judge and a figure you can track.",
       "version": "1.0.3",
-      "author": {
-        "name": "Mackenzie Bowes"
-      }
-    },
-    {
-      "name": "first-principles",
-      "source": "./plugins/first-principles",
-      "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
-      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -119,6 +92,42 @@
       "name": "lever",
       "source": "./plugins/lever",
       "description": "When the work isn't trivial, it has your agent write the script that does it, rerun it on the first unit and diff the result against the hand version.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "mbsi-decide",
+      "source": "./plugins/mbsi-decide",
+      "description": "It compares the options for each person a choice affects, including doing nothing, then shows you a short result you can check.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "mbsi-encode-lessons",
+      "source": "./plugins/mbsi-encode-lessons",
+      "description": "When the same correction comes up a second time, it picks the cheapest guard that holds it (a type, a lint rule, a hook or a script) instead of adding another line of text.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "mbsi-first-principles",
+      "source": "./plugins/mbsi-first-principles",
+      "description": "When a rule changes, it redesigns the type model or module from the start instead of adding another special case.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Mackenzie Bowes"
+      }
+    },
+    {
+      "name": "mbsi-unblock",
+      "source": "./plugins/mbsi-unblock",
+      "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about what cannot be undone: deleting, spending money, or sending a message to a person outside the team.",
       "version": "1.0.1",
       "author": {
         "name": "Mackenzie Bowes"
@@ -146,7 +155,7 @@
       "name": "signal-chain",
       "source": "./plugins/signal-chain",
       "description": "It ranks ways of carrying a message by how costly each is for the reader to decode, from faces and voices to writing and symbols, so you choose the one they can afford.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -164,15 +173,6 @@
       "name": "time-bound",
       "source": "./plugins/time-bound",
       "description": "time-bound turns \"spend 30 minutes on this\" into six five-minute rounds, each ended by a reminder the agent can't talk itself out of, so it keeps picking the next piece until the last round hands you the write-up.",
-      "version": "1.0.4",
-      "author": {
-        "name": "Mackenzie Bowes"
-      }
-    },
-    {
-      "name": "unblock",
-      "source": "./plugins/unblock",
-      "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about what cannot be undone: deleting, spending money, or sending a message to a person outside the team.",
       "version": "1.0.4",
       "author": {
         "name": "Mackenzie Bowes"

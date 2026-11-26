@@ -1,4 +1,4 @@
-# Agents that work the whole hour — and don't lie about it
+# Agents that work the whole hour - and don't lie about it
 
 By Mackenzie Bowes, with MBSI's agents.
 

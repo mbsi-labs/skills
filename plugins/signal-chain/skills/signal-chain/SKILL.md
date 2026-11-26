@@ -21,7 +21,7 @@ How far up the chain someone decodes depends on how much energy they'll spend *r
 ## Writing with it
 
 - **Lead with the lowest tier that carries the point.** A face, a moment, an action, a before and after. Then words. Then the symbols, for the readers who come looking.
-- **Each tier unlocks the next.** A reader who felt something (tier 1) and saw it happen (tier 2) will spend energy on the explanation (tiers 3–5). Explanation first loses the readers without that energy, and they're most readers.
+- **Each tier unlocks the next.** A reader who felt something (tier 1) and saw it happen (tier 2) will spend energy on the explanation (tiers 3-5). Explanation first loses the readers without that energy, and they're most readers.
 - **Cognitive affordances help everyone.** What lets a tier-3 reader use the thing at all saves a tier-5 reader effort too: short sentences, one idea per paragraph, a concrete example before the abstraction, a diagram beside the description, terms defined where they first appear.
 - **Trust lives low in the chain.** Writing and generated images are now cheap to fake, so a real face, a real voice, a real object and a real run on screen are worth more than they were. Show the thing.
 - **Name hostile signals.** When a piece holds one (a chart, AI-made material, a persona, a staged demo), give the reader the right reading beside it. A reader who finds the wrong story stuck later downgrades everything else you showed them.

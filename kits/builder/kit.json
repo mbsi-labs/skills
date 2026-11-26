@@ -4,10 +4,7 @@
   "members": [
     "skill:lever",
     "skill:prove-it",
-    "skill:first-principles",
-    "skill:design-docs",
     "skill:eval-design",
-    "skill:encode-lessons",
     "rule:state-machines"
   ],
   "runbook": null
