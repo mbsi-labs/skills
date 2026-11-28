@@ -34,10 +34,10 @@ Open https://mackenziebowes.com/skills/text/skill-design.txt, copy all of it, an
 
 ## Recent changes
 
+- 2026-11-27 (7ef33de): skill-design: say the read-back in words, not our cfm command (brisms-oveele)
+- 2026-11-27 (4f734fc): Updated.
 - 2026-11-23 (5d103ac): Updated.
 - 2026-10-28 (7f5c378): skill-design: drop the Aion line, quotes to credits, 'refused' becomes an instruction, say how to test
 - 2026-10-28 (996e89c): skill-design and unblock: steps stand alone for a reader without our private files
-- 2026-10-28 (c89eccb): skill-design: technical register, and name the class rather than list examples
-- 2026-10-23 (e0b2c69): Updated.
 
 The full list is in CHANGELOG.md.

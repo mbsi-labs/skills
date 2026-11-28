@@ -20,3 +20,5 @@ Stand on the shoulders of giants. Read the skills the user wrote by hand (`outre
 5. **Point at the evidence instead of inlining it.** End with a "More" list of library runbooks and worked examples. Put checklists in a file beside the skill (`tics.md`).
 
 Trust the reader. A skill that tries to specify everything gets followed like a parts list, and the work comes back weirdly specific.
+
+With the draft on disk, read it back against the ways Claude-written instructions fail: padding, steps more specific than the job needs, a rule added because something went wrong once, "never" written for "not now". Fix every one you find. The user (11-27 17:04): "write up the draft ... *then* read the claude failure modes ... and *then* fix the draft."

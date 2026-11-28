@@ -6,7 +6,7 @@ Your agent proceeds on reversible work, settles the mechanics itself and shows w
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): If you are about to ask a peer or human \"Should I do X,\" call this skill immediately. If you just asked a question about code, notes, tickets, branches, local config, publishing or deploying a page or post, names, conventions, or design and aren't getting an answer, call this skill.
+For your agent (the text it matches on): Simple instructions for unblocking yourself on other people. Call this skill if you are waiting for feedback on code, publishing, deploying, or taste.
 
 ## Install
 
@@ -41,6 +41,7 @@ The same list is in NOTICE.md.
 
 ## Recent changes
 
+- 2026-11-27 (eabfdec): Updated.
 - 2026-11-25 (357986c): Updated.
 
 The full list is in CHANGELOG.md.

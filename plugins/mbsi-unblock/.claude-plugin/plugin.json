@@ -1,6 +1,6 @@
 {
   "name": "mbsi-unblock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about what cannot be undone: deleting, spending money, or sending a message to a person outside the team.",
   "author": {
     "name": "Mackenzie Bowes"

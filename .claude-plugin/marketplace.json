@@ -128,7 +128,7 @@
       "name": "mbsi-unblock",
       "source": "./plugins/mbsi-unblock",
       "description": "Your agent proceeds on reversible work, settles the mechanics itself and shows what it did and why, and still asks first about what cannot be undone: deleting, spending money, or sending a message to a person outside the team.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Mackenzie Bowes"
       }
@@ -164,7 +164,7 @@
       "name": "skill-design",
       "source": "./plugins/skill-design",
       "description": "A change to a skill, rule or hook ships only if it is small, one or two intentful edits, because every added line carries claims nobody checked.",
-      "version": "1.0.9",
+      "version": "1.0.11",
       "author": {
         "name": "Mackenzie Bowes"
       }
