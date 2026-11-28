@@ -1,5 +1,6 @@
 # Changelog: claims
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-02 (069058e): Updated.
 - 2026-10-22 (8cf6617): Updated.
 - 2026-10-16 (9d94e6e): Updated.

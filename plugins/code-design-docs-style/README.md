@@ -6,7 +6,7 @@ Writes a short design a person can steer before you build: the ticket, the types
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): Write the design a person reviews before non-trivial code: by default the bronze tier (the ticket, the proposed types down to their leaves, the state machine, and the assumptions), recorded on the ticket or task it belongs to. Upgrade to silver (scenario traces, a standards check) or gold (an explainer film) only when the change calls for it. Use before writing or changing non-trivial code, when asked for a design or a design doc, or when a design was pushed back on.
+For your agent (the text it matches on): Write the design a person reviews before non-trivial code: by default the bronze tier (the ticket, the proposed types down to their leaves, the state machine, and the assumptions), recorded on the ticket or issue it belongs to. Upgrade to silver (scenario traces, a standards check) or gold (an explainer film) only when the change calls for it. Use before writing or changing non-trivial code, when asked for a design or a design doc, or when a design was pushed back on.
 
 ## Install
 
@@ -45,6 +45,7 @@ The same list is in NOTICE.md.
 
 ## Recent changes
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-25 (31e76d7): code-design-docs-style: frontmatter name matches the bench rename (unblocks the skills deploy)
 - 2026-11-25 (357986c): Updated.
 

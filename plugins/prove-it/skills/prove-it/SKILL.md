@@ -1,6 +1,6 @@
 ---
 name: prove-it
-description: "Prove it works before saying done: check the real thing (run the program, read the actual value, look at the diff), never a proxy, a self-report or 'it compiles'. Use after finishing any task and before a hand-back or a 'done', when a neighbour reports success, or when invoked as /prove-it."
+description: "Prove it works before saying done: check the real thing (run the program, read the actual value, look at the diff), never a proxy, a self-report or 'it compiles'. Use after finishing any ask and before a hand-back or a 'done', when a neighbour reports success, or when invoked as /prove-it."
 ---
 
 # Prove it works

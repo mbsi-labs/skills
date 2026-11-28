@@ -1,6 +1,6 @@
 {
   "name": "code-design-docs-style",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Writes a short design a person can steer before you build: the ticket, the types down to their leaves, the state machine and the assumptions, with silver and gold tiers when the change needs traced scenarios, a model check or a film.",
   "author": {
     "name": "Mackenzie Bowes"

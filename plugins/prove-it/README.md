@@ -6,7 +6,7 @@ Before your agent says it is done, it runs the real program from outside and rea
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): Prove it works before saying done: check the real thing (run the program, read the actual value, look at the diff), never a proxy, a self-report or 'it compiles'. Use after finishing any task and before a hand-back or a 'done', when a neighbour reports success, or when invoked as /prove-it.
+For your agent (the text it matches on): Prove it works before saying done: check the real thing (run the program, read the actual value, look at the diff), never a proxy, a self-report or 'it compiles'. Use after finishing any ask and before a hand-back or a 'done', when a neighbour reports success, or when invoked as /prove-it.
 
 ## Install
 
@@ -41,10 +41,10 @@ The same list is in NOTICE.md.
 
 ## Recent changes
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-15 (20cdff3): Updated.
 - 2026-11-14 (4e11a8b): Updated.
 - 2026-11-14 (3626be5): Updated.
 - 2026-11-14 (95a0ea4): Updated.
-- 2026-11-12 (7930f26): Updated.
 
 The full list is in CHANGELOG.md.

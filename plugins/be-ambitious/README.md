@@ -6,7 +6,7 @@ Before your agent starts, it asks what the job is really for and what an expert 
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): Call this skill to discover more about your task.
+For your agent (the text it matches on): Call this skill to discover more about your ask.
 
 ## Install
 
@@ -41,6 +41,7 @@ The same list is in NOTICE.md.
 
 ## Recent changes
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-24 (917ae73): Rename encode-lessons and first-principles with an mbsi- prefix
 - 2026-10-28 (d42e7d0): be-ambitious credits: drop private rule-file names
 - 2026-10-21 (c6c2f30): Updated.

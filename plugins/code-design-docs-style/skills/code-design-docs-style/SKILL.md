@@ -1,6 +1,6 @@
 ---
 name: code-design-docs-style
-description: Write the design a person reviews before non-trivial code: by default the bronze tier (the ticket, the proposed types down to their leaves, the state machine, and the assumptions), recorded on the ticket or task it belongs to. Upgrade to silver (scenario traces, a standards check) or gold (an explainer film) only when the change calls for it. Use before writing or changing non-trivial code, when asked for a design or a design doc, or when a design was pushed back on.
+description: Write the design a person reviews before non-trivial code: by default the bronze tier (the ticket, the proposed types down to their leaves, the state machine, and the assumptions), recorded on the ticket or issue it belongs to. Upgrade to silver (scenario traces, a standards check) or gold (an explainer film) only when the change calls for it. Use before writing or changing non-trivial code, when asked for a design or a design doc, or when a design was pushed back on.
 ---
 
 # Design docs
@@ -19,7 +19,7 @@ Five parts, in this order, and nothing else:
 
 Writing it is where you find the gaps: if an assumption has no type behind it, or a type has no reason in the ticket, fix the model before recording it.
 
-Record it wherever your team tracks work, attached to the ticket or task, and ask the person for a look. The person's answers go on the ticket verbatim, and into the next revision beside the assumption they answer.
+Record it wherever your team tracks work, attached to the ticket or issue, and ask the person for a look. The person's answers go on the ticket verbatim, and into the next revision beside the assumption they answer.
 
 ## When to upgrade
 

@@ -1,5 +1,6 @@
 # Changelog: prove-it
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-15 (20cdff3): Updated.
 - 2026-11-14 (4e11a8b): Updated.
 - 2026-11-14 (3626be5): Updated.

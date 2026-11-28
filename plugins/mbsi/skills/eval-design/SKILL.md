@@ -8,7 +8,7 @@ description: Design evals for experiments on our environment. Use when you add e
 ## Words
 
 - **Environment:** the briefs, skills, rules, harness, strategy, model and effort. We cannot change the model's weights.
-- **Experiment:** one change to the environment, then runs of real tasks.
+- **Experiment:** one change to the environment, then runs of real asks.
 - **Eval:** a question and the figure that it produces. Ask the question of many items of work. Each answer is a number. A yes or no is a number. The answers together make the figure. The eval is both the question and the figure.
 - **Judge:** the one who answers an eval's question: a program, the owner, or a model.
 - **Rung:** one model at one effort. Opus medium is the top rung.

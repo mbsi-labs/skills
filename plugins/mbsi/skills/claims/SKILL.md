@@ -5,7 +5,7 @@ description: "Call this skill to solve alignment incrementally. Use when the use
 
 # Claims: surface the implicit ones, numbered
 
-Misalignment hides in implicit claims: things a sentence assumes but never says. Claudes sideload these implicit claims during design, planning, writing, and prioritization tasks, and these implicit claims pollute product sense and cause massive misalignment.
+Misalignment hides in implicit claims: things a sentence assumes but never says. Claudes sideload these implicit claims during design, planning, writing, and prioritization work, and these implicit claims pollute product sense and cause massive misalignment.
 
 The user can't correct what isn't written, so write all of it, numbered, and let them strike by number to get onto the same page.
 

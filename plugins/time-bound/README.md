@@ -6,7 +6,7 @@ time-bound turns "spend 30 minutes on this" into six five-minute rounds, each en
 
 What it can see: only the chat you add it to.
 
-For your agent (the text it matches on): Spend a set length of time on open-ended work that has no finish line (review a project, research a question, explore, play) with a countdown of reminders, one small checked piece per round, and a write-up shown at the last round. Use for /time-bound <minutes> <task>, or whenever you are told to spend a length of time on something.
+For your agent (the text it matches on): Spend a set length of time on open-ended work that has no finish line (review a project, research a question, explore, play) with a countdown of reminders, one small checked piece per round, and a write-up shown at the last round. Use for /time-bound <minutes> <ask>, or whenever you are told to spend a length of time on something.
 
 ## Install
 
@@ -34,10 +34,10 @@ Open https://mackenziebowes.com/skills/text/time-bound.txt, copy all of it, and 
 
 ## Recent changes
 
+- 2026-11-28 (3c4d47a): Updated.
 - 2026-11-26 (9cf57e7): Hand repaired & radically altered the time-bound skill to: remove claudlish that lobotomizes agents, mark reminder messages so traces can select, select-between, and/or filter time-bound alert messages, and make the skill more generally applicable.
 - 2026-11-03 (02b9cd6): Updated.
 - 2026-11-03 (d167b5a): Updated.
 - 2026-11-01 (11d5ee0): Updated.
-- 2026-11-01 (8f9fdd9): Updated.
 
 The full list is in CHANGELOG.md.
